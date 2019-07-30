@@ -1,16 +1,22 @@
-[
-  {
+{
+  Tiers:[
+ {
     "id": 1,
   "name": "Ervin Howell",
   "username": "Antonette",
   "email": "Shanna@melissa.tv"
   
-  },
+  }
+],
+  
+ Users:[
   {
     "id": 2,
   "name": "Erviwell",
   "username": "Annette",
   "email": "Shanlissa.tv"
-  
   }
 ]
+  
+  
+}
